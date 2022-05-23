@@ -1,0 +1,48 @@
+tc
+1
+khu trung tam
+5.0
+be tong
+ton
+Not Available
+
+cc
+2
+phia dong hoi truong
+5.0
+3
+3
+Not Available
+
+tc
+3
+phia tay 
+5.0
+nhua
+nhom
+Available
+
+cc
+4
+trung tam
+5.0
+6
+6
+Available
+
+cc
+5
+phia nam hoi truong
+5.0
+5
+5
+Not Available
+
+tc
+10
+dau do
+45.0
+abc
+def
+Available
+
