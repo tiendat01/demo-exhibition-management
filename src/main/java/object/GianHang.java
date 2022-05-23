@@ -1,5 +1,5 @@
 /*
- * @author: Ly Ponleu
+ * @author: Nguyen Tien Dat
  */
 
 package object;
