@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e6f075c-fd0b-4395-a23f-419525d733ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GHdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KHdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/ConfirmBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/DoanhSoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/GianHangCaoCapController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/GianHangTieuChuanController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/KhachHangController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/SearchController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/ThongKeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demoexhibitionmanagement/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demoexhibitionmanagement/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/object/GianHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/object/GianHangCaoCap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/object/GianHangTieuChuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/object/KhachHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application/DoanhSo.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application/GianHangCaoCap.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application/GianHangTieuChuan.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application/KhachHang.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application/MainApplication.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application/SearchID.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application/ThongKe.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/demoexhibitionmanagement/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/Author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/CD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/CD1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/CD2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/Cate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/Category.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/XING.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/Year.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/YoP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/book1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/calculator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/capacity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/category1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/cdname.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/codeOrder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/comic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/comic_cd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/customer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/deposit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/director.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/language.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/language_64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/management.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/pagenumber.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/paper_64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/papersize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/payment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/price.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/productItem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/resolution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/return.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/us_dollar.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29XlMpkMuHSYORIVfCOM1CVPBEX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/dat/Downloads/IT3100_124176_BaiTapLon_Nhom7_BTL19/BaiTapLon_Nhom7_GUI_final"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/object" />
+      <recent name="$PROJECT_DIR$/src/main/java/application" />
+      <recent name="$PROJECT_DIR$/src/main/resources/image" />
+      <recent name="$PROJECT_DIR$/src/main/resources/com/example/demoexhibitionmanagement" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources/layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demoexhibitionmanagement.HelloApplication" />
+      <module name="demo-exhibition-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demoexhibitionmanagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Main" />
+      <module name="demo-exhibition-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e6f075c-fd0b-4395-a23f-419525d733ce" name="Changes" comment="" />
+      <created>1653240145083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653240145083</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

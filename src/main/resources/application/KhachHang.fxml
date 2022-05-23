@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="673.0" prefWidth="1042.0" style="-fx-background-color: #BDBDBD;" xmlns="http://javafx.com/javafx/11" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.KhachHangController">
+   <children>
+      <Label layoutX="445.0" layoutY="14.0" prefHeight="54.0" prefWidth="171.0" text="KHÁCH HÀNG">
+         <font>
+            <Font name="System Bold" size="25.0" />
+         </font>
+      </Label>
+      <TableView fx:id="table" layoutX="46.0" layoutY="68.0" prefHeight="460.0" prefWidth="950.0">
+        <columns>
+          <TableColumn fx:id="hoTencol" prefWidth="137.0" text="Họ tên" />
+          <TableColumn fx:id="diaChicol" prefWidth="150.0" text="Địa chỉ" />
+            <TableColumn fx:id="maGHcol" prefWidth="158.0" text="Mã Gian Hàng Thuê" />
+            <TableColumn fx:id="startDatecol" prefWidth="172.0" text="Thời gian bắt đầu" />
+            <TableColumn fx:id="endDatecol" prefWidth="159.0" text="Thời gian kết thúc" />
+            <TableColumn fx:id="tiencol" prefWidth="173.0" text="Tiền đặt cọc" />
+        </columns>
+      </TableView>
+      <TextField fx:id="hoTen_input" layoutX="40.0" layoutY="565.0" prefHeight="31.0" prefWidth="133.0" promptText="Họ tên" />
+      <TextField fx:id="diaChi_input" layoutX="179.0" layoutY="565.0" prefHeight="31.0" prefWidth="159.0" promptText="Địa chỉ" />
+      <TextField fx:id="maGH_input" layoutX="344.0" layoutY="565.0" prefHeight="31.0" prefWidth="150.0" promptText="Mã gian hàng thuê" />
+      <TextField fx:id="tien_input" layoutX="896.0" layoutY="565.0" prefHeight="31.0" prefWidth="116.0" promptText="Tiền đặt cọc" />
+      <DatePicker fx:id="startDate_input" layoutX="503.0" layoutY="565.0" prefHeight="31.0" prefWidth="187.0" promptText="Thời gian bắt đầu" />
+      <DatePicker fx:id="endDate_input" layoutX="699.0" layoutY="565.0" prefHeight="31.0" prefWidth="187.0" promptText="Thời gian kết thúc" />
+      <Button fx:id="add_button" layoutX="858.0" layoutY="618.0" mnemonicParsing="false" onAction="#addButtonClicked" prefHeight="31.0" prefWidth="56.0" text="Add" />
+      <Button fx:id="delete_button" layoutX="925.0" layoutY="618.0" mnemonicParsing="false" onAction="#deleteButtonClicked" prefHeight="31.0" prefWidth="87.0" text="Delete" />
+   </children>
+</AnchorPane>

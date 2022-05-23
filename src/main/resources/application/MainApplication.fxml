@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="579.0" prefWidth="993.0" style="-fx-background-color: #BDBDBD;" xmlns="http://javafx.com/javafx/11" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controller">
+	
+    <children>
+      <Label alignment="CENTER" layoutX="358.0" layoutY="9.0" prefHeight="109.0" prefWidth="417.0" text="LỰA CHỌN CHỨC NĂNG " textAlignment="CENTER">
+         <font>
+            <Font name="System Bold" size="25.0" />
+         </font>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Label>
+      <Button fx:id="button_ghtc" alignment="TOP_CENTER" layoutX="109.0" layoutY="147.0" mnemonicParsing="false" onAction="#gianHangTieuChuan" prefHeight="131.0" prefWidth="223.0" style="-fx-background-color: grey;">
+         <graphic>
+            <ImageView fitHeight="72.0" fitWidth="98.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../image/cdname.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Label alignment="TOP_CENTER" layoutX="112.0" layoutY="234.0" prefHeight="89.0" prefWidth="217.0" text="GIAN HÀNG TIÊU CHUẨN">
+         <font>
+            <Font name="System Italic" size="17.0" />
+         </font>
+      </Label>
+      <Button fx:id="button_ghcc" alignment="TOP_CENTER" layoutX="385.0" layoutY="147.0" mnemonicParsing="false" onAction="#gianHangCaoCap" prefHeight="131.0" prefWidth="223.0" style="-fx-background-color: GREY;" AnchorPane.bottomAnchor="301.0" AnchorPane.leftAnchor="385.0" AnchorPane.rightAnchor="385.0" AnchorPane.topAnchor="147.0">
+         <graphic>
+            <ImageView fitHeight="72.0" fitWidth="92.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../image/deposit.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Label alignment="TOP_CENTER" layoutX="413.0" layoutY="234.0" prefHeight="66.0" prefWidth="167.0" text="GIAN HÀNG CAO CẤP">
+         <font>
+            <Font name="System Italic" size="17.0" />
+         </font>
+      </Label>
+      <Button fx:id="button_khach" alignment="TOP_CENTER" layoutX="664.0" layoutY="147.0" mnemonicParsing="false" onAction="#KhachHang" prefHeight="131.0" prefWidth="223.0" style="-fx-background-color: grey;">
+         <graphic>
+            <ImageView fitHeight="72.0" fitWidth="92.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../image/director.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Label layoutX="721.0" layoutY="234.0" text="KHÁCH HÀNG">
+         <font>
+            <Font name="System Italic" size="17.0" />
+         </font>
+      </Label>
+      <Button fx:id="button_search" alignment="TOP_CENTER" layoutX="664.0" layoutY="368.0" mnemonicParsing="false" onAction="#Search" prefHeight="131.0" prefWidth="223.0" style="-fx-background-color: GREY;">
+         <graphic>
+            <ImageView fitHeight="72.0" fitWidth="92.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../image/XING.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Label layoutX="692.0" layoutY="460.0" text="TÌM KIẾM GIAN HÀNG">
+         <font>
+            <Font name="System Italic" size="17.0" />
+         </font>
+      </Label>
+      <Button fx:id="button_tk" alignment="TOP_CENTER" layoutX="109.0" layoutY="368.0" mnemonicParsing="false" onAction="#ThongKe" prefHeight="131.0" prefWidth="223.0" style="-fx-background-color: GREY;">
+         <graphic>
+            <ImageView fitHeight="72.0" fitWidth="92.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../image/result.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Label alignment="TOP_CENTER" layoutX="180.0" layoutY="460.0" text="THỐNG KÊ">
+         <font>
+            <Font name="System Italic" size="17.0" />
+         </font>
+      </Label>
+      <Button fx:id="button_ds" alignment="TOP_CENTER" layoutX="385.0" layoutY="368.0" mnemonicParsing="false" onAction="#DoanhSo" prefHeight="131.0" prefWidth="223.0" style="-fx-background-color: GREY;">
+         <graphic>
+            <ImageView fitHeight="72.0" fitWidth="92.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../image/us_dollar.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Label layoutX="432.0" layoutY="460.0" text="TÍNH DOANH SỐ">
+         <font>
+            <Font name="System Italic" size="17.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="98.0" fitWidth="118.0" layoutX="309.0" layoutY="15.0" pickOnBounds="true" preserveRatio="true" style="-fx-background-color: BLACK;">
+         <image>
+            <Image url="@../image/management.png" />
+         </image>
+      </ImageView>
+   </children>
+   <opaqueInsets>
+      <Insets />
+   </opaqueInsets>
+</AnchorPane>
